@@ -1,6 +1,8 @@
 CUED PhD thesis template
 ========================
 
+**This repository is fork from https://github.com/kks32/phd-thesis-template. The repository is modified for University of Cincinnati.**
+
 [![Join the chat at https://gitter.im/kks32/phd-thesis-template](https://badges.gitter.im/kks32/phd-thesis-template.svg)](https://gitter.im/kks32/phd-thesis-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > A LaTeX / XeLaTeX / LuaLaTeX PhD thesis template for Cambridge University Engineering Department.
 
