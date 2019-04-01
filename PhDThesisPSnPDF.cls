@@ -874,7 +874,7 @@ wish to left align your text}
 \newcommand{\advisorlinewidth}[1]{\renewcommand{\@advisorlinewidth}{#1}}
 
 % Submission Text
-\newcommand{\submissiontext}{This dissertation is submitted for the degree of }
+\newcommand{\submissiontext}{This proposal is submitted for the degree of }
 
 % keywords (These keywords will appear in the PDF meta-information
 % called `pdfkeywords`.)
